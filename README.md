@@ -108,16 +108,7 @@ Opens at `http://localhost:3000`
 <img width="1344" height="631" alt="Screenshot 2026-11-24 123820" src="https://github.com/user-attachments/assets/d07ea746-d72d-448f-9da6-aa0f9e87bc59" />
 <img width="1351" height="633" alt="Screenshot 2026-11-24 123759" src="https://github.com/user-attachments/assets/741acd9b-0f11-4490-a946-546e211d14d3" />
 <img width="1330" height="628" alt="Screenshot 2026-11-24 123131" src="https://github.com/user-attachments/assets/d6280e28-8ba9-47c0-92a3-5ccf0d9e497a" />
-
-
-
-
-
-
-
-
-
-
+<img width="1355" height="623" alt="Screenshot 2026-11-24 124859" src="https://github.com/user-attachments/assets/0652744c-d567-470e-b420-018366ca5c72" />
 
 
 ---
