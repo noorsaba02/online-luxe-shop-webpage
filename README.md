@@ -1,4 +1,4 @@
-ttps://img.shields.io/badge/Frontend-React.js-61DAFB)
+
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E)
 ![CSS3](https://img.shields.io/badge/Styling-CSS3-1572B6)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
